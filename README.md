@@ -1,11 +1,11 @@
-#Exercice 1 :
+Exercice 1 :
 1. Ecrire une fonction constructeur voiture avec les attributs « model , marque, année, type,
 carburant » .
 2. créer une liste des voitures.
 3. implémenter le mécanisme d’héritage entre la classes voitures et deux autre classes Hyndai
 ( attributs : série(string) , hybride (booléen) / méthodes : alarmer() )et Ford ( options (tableau )).
 4. Trier puis afficher les voiture selon un ordre croissant des année.
-#Exercice 2 :
+Exercice 2 :
 1. Creer deux objet native Etudiant ( nom : string , prenom : string , age : number , cne : string ) et
 Professeur ( nom : string , age : number , cin : string , )
 2. Ajouter une méthode étudier() a l’objet Etudiant, puis ajouter une méthode enseigner() a l’objet
